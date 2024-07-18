@@ -1,3 +1,9 @@
+.start{
+  display: flex;
+  justify-content: flex-start;
+  
+}
+
 .container {
     width: 1200px;
     justify-content: space-between;
@@ -6,13 +12,10 @@
     flex-wrap: wrap;
 }
 
+
 .min-height{
   min-height: 75%;
   max-width: 100%;
-}
-
-.start{
-  justify-content: flex-start;
 }
 
 .column{

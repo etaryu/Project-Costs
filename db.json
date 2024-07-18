@@ -1,21 +1,40 @@
 {
-    "projects": [],
-    "categories": [
+  "projects": [
+    {
+      "id": "7d7a",
+      "name": "Novo Design",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "budget": "20000",
+      "cost": 5000,
+      "services": [
         {
-            "id":1,
-            "name": "Infra"
-        },
-        {
-            "id":2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id":3,
-            "name": "Design"
-        },
-        {
-            "id":4,
-            "name": "Planejamento"
+          "name": "Novo estilo",
+          "cost": "5000",
+          "description": "Transformar o produto estilizado de acordo com nosso interesse com algumas cores especificas, e um design moderno.",
+          "id": "d8878ebc-2531-4dcf-8850-2f3d0ce2cecf"
         }
-    ]
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
