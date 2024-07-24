@@ -1,22 +1,15 @@
 {
   "projects": [
     {
-      "id": "7d7a",
-      "name": "Novo Design",
+      "id": "c0c3",
+      "name": "Arquitetura da casa x",
+      "budget": "50000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
-      "budget": "20000",
-      "cost": 5000,
-      "services": [
-        {
-          "name": "Novo estilo",
-          "cost": "5000",
-          "description": "Transformar o produto estilizado de acordo com nosso interesse com algumas cores especificas, e um design moderno.",
-          "id": "d8878ebc-2531-4dcf-8850-2f3d0ce2cecf"
-        }
-      ]
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [

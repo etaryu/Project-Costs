@@ -1,0 +1,12 @@
+.empresa img{
+    width: 10%;
+    padding-bottom: 3%;
+}
+.empresa {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    padding-top: 2%;
+}
