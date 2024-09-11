@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Project-Costs/static/css/main.d4d5c68e.css",
+    "main.js": "/Project-Costs/static/js/main.24d2cbe3.js",
+    "static/js/453.7f45aa79.chunk.js": "/Project-Costs/static/js/453.7f45aa79.chunk.js",
+    "static/media/img_yellow.png": "/Project-Costs/static/media/img_yellow.0486d68913f7e89a2482.png",
+    "static/media/savings.svg": "/Project-Costs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "static/media/phone-svgrepo-com.svg": "/Project-Costs/static/media/phone-svgrepo-com.9c4eb61de8779d296ec76e6662aafe42.svg",
+    "static/media/email-svgrepo-com.svg": "/Project-Costs/static/media/email-svgrepo-com.08afa41a8a71e0bad8d950eeccaccd28.svg",
+    "index.html": "/Project-Costs/index.html",
+    "static/media/loading.svg": "/Project-Costs/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.d4d5c68e.css.map": "/Project-Costs/static/css/main.d4d5c68e.css.map",
+    "main.24d2cbe3.js.map": "/Project-Costs/static/js/main.24d2cbe3.js.map",
+    "453.7f45aa79.chunk.js.map": "/Project-Costs/static/js/453.7f45aa79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d5c68e.css",
+    "static/js/main.24d2cbe3.js"
+  ]
+}
